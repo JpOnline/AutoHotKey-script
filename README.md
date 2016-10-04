@@ -18,7 +18,7 @@ OMG, the arrows of my keyboard are so far away, so lets remap
 ### Tiling windows
 For those who are fans of the [i3 tiling window manager](https://i3wm.org/) but never found an equivalent for Windows
 
-[desktop img](https://raw.githubusercontent.com/JpOnline/AutoHotKey-script/master/README%20img/desktop.png)
+![desktop img](https://raw.githubusercontent.com/JpOnline/AutoHotKey-script/master/README%20img/desktop.png)
 
 You can enter in the resize and position mode 
 

@@ -32,4 +32,4 @@ In the window mode you can
 ### It does other things as well..
 
 ## To run
-To run the script you just need to [download](https://autohotkey.com/download/ahk-install.exe) the AutoHotKey and drag the script to it.
+To run the <a href="https://github.com/JpOnline/AutoHotKey-script/raw/master/ahkScript.ahk" download>script</a> you just need to [download](https://autohotkey.com/download/ahk-install.exe) the AutoHotKey and drag the script to it.
